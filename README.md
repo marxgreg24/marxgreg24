@@ -1,8 +1,8 @@
-# 👋 Hey there, I’m Mark Gregory (a.k.a. Greg)
+# 👋 Hey there, I’m Mark Gregory
 
 🎯 **Driven by Curiosity | Powered by Code | Focused on Impact**
 
-I'm a passionate Software Engineering student currently in my second year, on a mission to transform real-world problems into elegant code-based solutions. From web development to machine learning and smart contracts, I'm all about building smart, impactful tech—one project at a time.
+I'm a passionate Software Engineering student currently in my third year, on a mission to transform real-world problems into elegant code-based solutions. From web development to machine learning and smart contracts, I'm all about building smart, impactful tech—one project at a time.
 
 ## 👨‍💻 What I’m Into
 
@@ -14,9 +14,7 @@ I'm a passionate Software Engineering student currently in my second year, on a 
 ## 🚀 Current Projects
 
 - 🌊 **Flood Risk Predictor** – ML-powered dashboard to visualize and predict flood probabilities and duration as well as development of the models used.
-- 📈 **MUST Accommodation Platform** – Interactive web system for booking accommodation for Mbarara University(Node.js + HTML&CSS,JS, Postgre)
-- 🌐 **Portfolio Website** – Interactive web presence with animations and sleek design 
-- 💰 **Metripay** – Smart contract development in Solidity for a secure payment system.
+- 📈 **MUST Accommodation Platform** – Interactive web system for booking accommodation for Mbarara University(Node.js + HTML&CSS,JS, Postgres)
 
 ## 🤝 Let’s Connect & Collaborate
 
